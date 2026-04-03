@@ -1,3 +1,4 @@
+![logo](https://github.com/kush021104/kush021104/blob/main/Screenshot%202026-04-03%20114457.png)
 ## Hi there people 👋
 
 # 🔬 BioAI-Explorer: Bridging Biology and AI
