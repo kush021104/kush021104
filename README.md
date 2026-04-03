@@ -1,8 +1,7 @@
 ![logo](https://github.com/kush021104/kush021104/blob/main/Screenshot%202026-04-03%20114457.png)
 ## Hi there people 👋
 
-<img align ="right" alt ="dna" width= "400" src ="<img width="183" height="275" alt="image" src="https://github.com/user-attachments/assets/e0c1d502-5f0e-46d4-b623-101f682fac35" />
-">
+<img align="right" width="400" height="172" alt="image" src="https://github.com/user-attachments/assets/4cf922b9-9f24-41ce-9eee-47684af1387a" />
 
 # 🔬 BioAI-Explorer: Bridging Biology and AI
 
