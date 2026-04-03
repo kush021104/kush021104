@@ -15,7 +15,7 @@ This repository captures my journey of **analyzing molecular structures, genomic
 
 I’m **Kushagra**, a **B. Tech Biotechnology student** passionate about translating **wet lab insights into computational biology applications**. My expertise and focus include:
 
-* 🧬 **Molecular & Structural Bioinformatics** — protein structure prediction, validation, structural analysis, and phylogenetic studies
+[* 🧬 **Molecular & Structural Bioinformatics** — protein structure prediction, validation, structural analysis, and phylogenetic studies
 * 💡 **Computational Drug Design** — molecular docking, drug designing, and drug repurposing pipelines
 * 🧪 **Wet Lab Techniques** — DNA extraction and sample handling, plus basic experimental data collection
 * 🤖 **AI/ML in Biology** — building predictive models, sequence classification, and data-driven biological insights
