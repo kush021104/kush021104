@@ -11,7 +11,7 @@ This repository captures my journey of **analyzing molecular structures, genomic
 
 ## 👩‍🔬 About Me
 
-<img align="right" width="450" height="450" alt="DNA Animation" src="https://github.com/user-attachments/assets/edf7cc96-8744-4a87-b703-cc9821b29be0" />
+<img align="right" width="450" height="450" alt="DNA Animation" src="https://tenor.com/en-IN/view/dna-helix-gif-10625836" />
 
 I’m **Kushagra**, a **B.Tech Biotechnology student** passionate about translating **wet lab insights into computational biology applications**. My expertise and focus include:
 
