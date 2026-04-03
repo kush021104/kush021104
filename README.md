@@ -22,6 +22,8 @@ I’m **Kushagra**, a **B. Tech Biotechnology student** passionate about transla
 
 I aim to **bridge coding, molecular biology, and AI** to provide actionable insights in genomics, proteomics, and microbial research.
 
+
+
 ---
 
 ## 🛠️ Skills Snapshot
