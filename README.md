@@ -10,7 +10,7 @@ This repository captures my journey of **analyzing molecular structures, genomic
 ---
 
 ## 👩‍🔬 About Me
-"<img align="right" width="400" height="172" alt="image" src="https://github.com/user-attachments/assets/4cf922b9-9f24-41ce-9eee-47684af1387a" />" 
+<img width="220" height="287" alt="image" src="https://github.com/user-attachments/assets/13f33ad0-6bea-4868-b524-88f4fa4a0368" /> 
 I’m **Kushagra**, a **B.Tech Biotechnology student** passionate about translating **wet lab insights into computational biology applications**. My expertise and focus include:
 
 * 🧬 **Molecular & Structural Bioinformatics** — protein structure prediction, validation, structural analysis, and phylogenetic studies
