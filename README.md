@@ -11,7 +11,7 @@ This repository captures my journey of **analyzing molecular structures, genomic
 
 ## 👩‍🔬 About Me
 
-<img align="right" width="450" height="450" alt="DNA Animation" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnl2OXNtazR6OWJhNDB6MnQzN2o5a3V0YWhkMzQ5dHY0dHFjdTk3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N5Adsn0dgz6h2/giphy.gif" />
+<img align="right" width="450" height="450" alt="DNA Animation" src="https://github.com/user-attachments/assets/edf7cc96-8744-4a87-b703-cc9821b29be0" />
 
 I’m **Kushagra**, a **B.Tech Biotechnology student** passionate about translating **wet lab insights into computational biology applications**. My expertise and focus include:
 
