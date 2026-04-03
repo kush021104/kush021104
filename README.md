@@ -54,7 +54,23 @@ I aim to **bridge coding, molecular biology, and AI** to provide actionable insi
 
 
 ---
+## 🛠️ Tech Stack
 
+### Bioinformatics Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BioPython](https://img.shields.io/badge/BioPython-9cf?style=for-the-badge)
+![BLAST](https://img.shields.io/badge/BLAST-success?style=for-the-badge)
+![AutoDock](https://img.shields.io/badge/AutoDock-orange?style=for-the-badge)
+![AlphaFold](https://img.shields.io/badge/AlphaFold-red?style=for-the-badge)
+
+### Data Science & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+
+### Wet Lab
+![HPLC](https://img.shields.io/badge/HPLC-informational?style=for-the-badge)
+![DNA Extraction](https://img.shields.io/badge/DNA_Extraction-brightgreen?style=for-the-badge)
 ## 📚 Learning Path
 
 Documenting my continuous growth in:
