@@ -88,8 +88,3 @@ Documenting my continuous growth in:
 This repository reflects my **self-driven exploration and applied learning**. Everything here is either a **real project** or a **practical learning exercise**.
 
 ✅ Feedback and collaboration are always welcome!
-## 📊 GitHub Stats
-
-![Kushagra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kush021104&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kush021104&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
