@@ -1,6 +1,9 @@
 ![logo](https://github.com/kush021104/kush021104/blob/main/Screenshot%202026-04-03%20114457.png)
 ## Hi there people 👋
 
+<img align ="right" alt ="dna" width= "400" src ="<img width="183" height="275" alt="image" src="https://github.com/user-attachments/assets/e0c1d502-5f0e-46d4-b623-101f682fac35" />
+">
+
 # 🔬 BioAI-Explorer: Bridging Biology and AI
 
 Welcome to **BioAI-Explorer**, where I combine my **biotechnology foundation and wet lab experience** with **bioinformatics, AI/ML, and computational biology** to tackle real-world biological problems.
