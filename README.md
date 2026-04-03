@@ -1,8 +1,6 @@
 ![logo](https://github.com/kush021104/kush021104/blob/main/Screenshot%202026-04-03%20114457.png)
 ## Hi there people 👋
 
-<img align="right" width="400" height="172" alt="image" src="https://github.com/user-attachments/assets/4cf922b9-9f24-41ce-9eee-47684af1387a" />
-
 # 🔬 BioAI-Explorer: Bridging Biology and AI
 
 Welcome to **BioAI-Explorer**, where I combine my **biotechnology foundation and wet lab experience** with **bioinformatics, AI/ML, and computational biology** to tackle real-world biological problems.
@@ -12,7 +10,7 @@ This repository captures my journey of **analyzing molecular structures, genomic
 ---
 
 ## 👩‍🔬 About Me
-
+"<img align="right" width="400" height="172" alt="image" src="https://github.com/user-attachments/assets/4cf922b9-9f24-41ce-9eee-47684af1387a" />" 
 I’m **Kushagra**, a **B.Tech Biotechnology student** passionate about translating **wet lab insights into computational biology applications**. My expertise and focus include:
 
 * 🧬 **Molecular & Structural Bioinformatics** — protein structure prediction, validation, structural analysis, and phylogenetic studies
