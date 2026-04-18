@@ -13,9 +13,6 @@ This repository captures my journey of **analyzing molecular structures, genomic
 
 <img align="right" width="200" height="300" alt="DNA Animation" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjczNWwwNDhoenNoaGQxeGp2Y3JyNGtmbjY1ZTR3eGJka2hzazA3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1fWtMmQbuGvm/giphy.gif" />
 
-<img align="left" width="566" height="428" alt="Protein animation" src= "https://commons.wikimedia.org/wiki/File:SHARPIN_protein.gif" />
-
-
 I’m **Kushagra**, a **B. Tech Biotechnology student** passionate about translating **wet lab insights into computational biology applications**. My expertise and focus include:
 
 [* 🧬 **Molecular & Structural Bioinformatics** — protein structure prediction, validation, structural analysis, and phylogenetic studies
