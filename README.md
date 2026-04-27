@@ -45,8 +45,8 @@ I aim to **bridge coding, molecular biology, and AI** to provide actionable insi
 
 ## 🚧 Projects (Current & Ongoing)
 
-1. **DNA Promoter Sequence Classifier** 🧬
-   ML model to classify promoter vs non-promoter sequences, integrating Python coding and data preprocessing
+1. **QSAR ACTIVITY MODEL AGAINST DPP4 PROTEIN** 🧬
+   ML model to classify organic compounds into 3 categories, namely active, inactive, and neutral 
    
 2. **Structural Bioinformatics Projects** 🧪
    Protein structure prediction, validation, active site analysis, and phylogenetic studies.
